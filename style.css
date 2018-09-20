@@ -1,1 +1,79 @@
-css
+body {
+    font-family: 'arial','helvetica neue', helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 150px;
+    
+    
+    }
+    
+    header,nav, section, aside, footer {
+        
+        background: #ebebeb;
+        padding: 40px;
+    }
+    
+    article {
+        color: #ebebeb;
+        background: #777;
+        width: 495px;
+        
+    }
+    
+    div, p {
+        color: #777;
+        background: #ebebeb;
+    }
+    
+    #sec {
+        width: 495px;
+        height: 300px;
+        float: left;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin: 0px 0px 10px 0px;
+    }
+    
+    #art {
+        width: 475px;
+        height: 220px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 10px;
+    
+    }
+    
+    #dv {
+        padding: 4px;
+    }
+    
+    #prgrph {
+        padding: 25px;
+    }
+    
+    
+    #asd {
+        width: 300px;
+        height: 200px;
+        padding-top: 100px;
+        padding: 70px;
+        margin-top: 0px;
+        float: right;	
+        
+        
+    }
+        
+    #foot{
+        clear: both;
+        
+    
+    }
+        
+    
+    
